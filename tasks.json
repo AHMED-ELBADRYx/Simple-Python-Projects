@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Complete project",
+    "description": "Finish the Python project with all requirements",
+    "due_date": "2023-05-20",
+    "priority": "LOW",
+    "status": "IN_PROGRESS",
+    "created_at": "2025-07-11T23:44:28.378947",
+    "last_modified": "2025-07-11T23:44:28.396748"
+  },
+  {
+    "name": "Grocery shopping",
+    "description": "Buy milk, eggs, and bread",
+    "due_date": "2023-05-10",
+    "priority": "MEDIUM",
+    "status": "COMPLETED",
+    "created_at": "2025-07-11T23:44:28.379015",
+    "last_modified": "2025-07-11T23:44:28.384630"
+  }
+]
